@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-Blog : https://velog.io/@ehgks0000 😉
+- 🌱 I’m currently learning Express.js && Next.js
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for Job
+- 💬 Ask me about ...
+- 📫 How to reach me: ehgks0083@gmail.com
+- 😄 Pronouns: ...
+- ⚡ My Blog : https://velog.io/@ehgks0000
 
-Email : ehgks0083@gmail.com 😎
+
