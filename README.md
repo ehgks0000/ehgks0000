@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Blog : https://velog.io/@ehgks0000
+Blog : https://velog.io/@ehgks0000 😉
 
-Email : ehgks0083@gmail.com
+Email : ehgks0083@gmail.com 😎
