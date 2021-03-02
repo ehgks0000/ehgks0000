@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## NodeJS Programmer
 
-- 🌱 I’m currently learning **Node, Epress and NestJS**
+
+- 🌱 I’m currently learning **NestJS TypeORM Sequelize Docker**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for Job
 - 💬 Ask me about ...
@@ -25,3 +27,9 @@ Here are some ideas to get you started:
 - ⚡ My Blog : https://velog.io/@ehgks0000
 
 
+## Stack
+
+- React.js
+- Next.js
+- Node.js
+- Nest.js
