@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## NodeJS Programmer
 
 
-- 🌱 I’m currently learning **NestJS TypeORM Sequelize Docker**
+- 🌱 I’m currently learning **NestJS, TypeScript, Kubernetes**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for Job
 - 💬 Ask me about ...
@@ -39,3 +39,9 @@ Here are some ideas to get you started:
 - Next.js
 - Node.js
 - Nest.js
+
+- AWS EC2, AWS Route 53, AWS S3, 
+- Docker && Docker-compose
+- Kubernetes
+
+- MySQL, PostgreSQL, MongoDB
