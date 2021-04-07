@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## NodeJS Programmer
 
 
-- 🌱 I’m currently learning **NestJS, TypeScript, Kubernetes**
+- 🌱 I’m currently learning **NestJS, Kubernetes and Java 11, Java Spring**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for Job
 - 💬 Ask me about ...
@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 - Kubernetes
 
 - MySQL, PostgreSQL, MongoDB
+- mongoose, TypeORM, Sequelize
