@@ -33,16 +33,22 @@ Here are some ideas to get you started:
 - ⚡ My Blog : https://velog.io/@ehgks0000
 
 
-## Stack
-
-- React.js
-- Next.js
-- Node.js
-- Nest.js
-
-- AWS EC2, AWS Route 53, AWS S3, 
-- Docker && Docker-compose
-- Kubernetes
-
+# 🛠Skills
+## Language
+- JavaScript, TypeScript, Java 8
+## Frontend
+- JavaScript, HTML, CSS, ReactJS, NextJS
+## Backend
+- NodeJS, ExpressJS, NestJs
+## DevOps
+- AWS EC2, S3, RDS, Route 53
 - MySQL, PostgreSQL, MongoDB
-- mongoose, TypeORM, Sequelize
+- Nginx
+- Docker, Docker-compose
+
+## 📙Studying
+- Jenkins, Kubernetes, ELK Stack, Jest
+## 🤝Collaboration Tool
+- Git
+- Slack
+- ERD Cloud
