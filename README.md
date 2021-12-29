@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## NodeJS Programmer
 
 
-- 🌱 I’m currently learning **NestJS, Kubernetes and Java 11, Java Spring**
+- 🌱 I’m currently learning **k8s, Spring Boot and More NodeJS**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for Job
 - 💬 Ask me about ...
@@ -35,19 +35,23 @@ Here are some ideas to get you started:
 
 # 🛠Skills
 ## Language
-- JavaScript, TypeScript, Java 8
+- JavaScript, TypeScript, Java 8 & 11
 ## Frontend
 - JavaScript, HTML, CSS, ReactJS, NextJS
 ## Backend
-- NodeJS, ExpressJS, NestJs
+- NodeJS, ExpressJS, NestJs, Spring Boot
+
+## DB
+- MySQL, PostgreSQL, MongoDB
+
 ## DevOps
 - AWS EC2, S3, RDS, Route 53
-- MySQL, PostgreSQL, MongoDB
 - Nginx
-- Docker, Docker-compose
+- Github Actions
+- Docker, Docker-compose, k8s(EKS)
 
 ## 📙Studying
-- Jenkins, Kubernetes, ELK Stack, Jest
+- k8s, Spring Boot
 ## 🤝Collaboration Tool
 - Git
 - Slack
