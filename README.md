@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 - AWS EC2, S3, RDS, Route 53
 - Nginx
 - Github Actions
+- ELK Stack + Filebeat
 - Docker, Docker-compose, k8s(EKS)
 
 ## 📙Studying
