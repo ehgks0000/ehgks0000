@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## NodeJS Programmer
 
 
-- 🌱 I’m currently learning **k8s, Spring Boot and More NodeJS**
+- 🌱 I’m currently learning **NodeJS, Clean Code, Refactor**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for Job
 - 💬 Ask me about ...
@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 - ELK Stack + Filebeat
 - Docker, Docker-compose, k8s(EKS)
 
-## 📙Studying
-- k8s, Spring Boot
 ## 🤝Collaboration Tool
 - Git
 - Slack
