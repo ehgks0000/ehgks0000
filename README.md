@@ -15,4 +15,4 @@ Blog : https://velog.io/@ehgks0000
 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ehgks)]([https://velog.io/@eungyeole](https://velog.io/@ehgks0000)https://velog.io/@ehgks0000) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ehgks0000)](https://github.com/ehgks0000/velog-readme-stats)
